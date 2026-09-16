@@ -55,6 +55,8 @@ A snapshot of the configured Kali Linux virtual machine was created for recovery
 
 Screenshots captured during my lab setup are included in this repository as evidence of the practical work.
 
+InShot_20260916_011831654.jpg
+
 ## 🧠 What I Learned
 
 During this project, I learned how to:
